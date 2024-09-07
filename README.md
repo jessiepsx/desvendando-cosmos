@@ -1,4 +1,4 @@
-Desvendando o Cosmos 🌌
+Desvendando o Cosmos 🌌 - Imersão Dev com Google Gemini
 Este projeto é uma aplicação web simples que permite pesquisar informações sobre os planetas do Sistema Solar. O usuário pode digitar o nome de um planeta e a aplicação exibirá uma breve descrição e um link para mais informações sobre o planeta escolhido.
 
 Funcionalidades 🚀
